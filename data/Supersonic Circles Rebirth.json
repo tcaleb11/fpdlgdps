@@ -9,13 +9,8 @@
     "password": "Free To Copy",
     "records": [
     ]
-        {
             "user": "TCaleb",
             "link": "https://youtu.be/lcRebkzuAHk",
             "percent": 100,
-            "hz": 165
-        },
-        {
-        }
-    ]
+            "hz": 165,
 }
