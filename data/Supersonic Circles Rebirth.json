@@ -8,9 +8,11 @@
     "percentToQualify": "85",
     "password": "Free To Copy",
     "records": [
-            "user": "TCaleb",
-            "link": "https://youtu.be/lcRebkzuAHk",
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 165,
+            "hz": 360
+        },
     ]
 }
